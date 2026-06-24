@@ -8,11 +8,7 @@ Building intelligent systems, scalable software, and production-ready AI product
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full-Stack+Developer;Agentic+AI+Systems;RAG+Pipelines+%26+LLM+Applications;Quantum+Machine+Learning;Cloud+Native+Software;Building+Production+Ready+Intelligent+Systems" />
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vishwak-8055&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Vishwak-8055?label=Followers&style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/Vishwak-8055?affiliations=OWNER&style=for-the-badge" />
-</p>
+
 
 </div>
 
